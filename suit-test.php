@@ -1,0 +1,189 @@
+<a href="suit-test.php?acn=front" >front</a>
+<a href="suit-test.php?acn=inner" >inner</a>
+<a href="suit-test.php?acn=back" >back</a>
+<a href="suit-test.php?acn=merged" >merged</a>
+
+<?php if($_REQUEST['acn']=='back') { ?>
+<div id="fabric_design_details_middle_picture_view1" class=""> 
+	<!--//-----------------------------------------------inner main merged image for back---------------------------------------------//--> 
+	<img id="1" src="images/suit/back/mix.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 11;"> 
+	<img id="2" src="images/suit/back/two.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 14;"> 
+
+</div>
+<?php } else if($_REQUEST['acn']=='inner') { ?>
+<div id="fabric_design_details_middle_picture_view1" class=""> 
+	
+	<!--//-----------------------------------------------inside inner pocket image---------------------------------------------//--> 
+	<img id="0" src="images/suit/lining_705_b.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 34;">
+
+	<!--//-----------------------------------------------inside inner image---------------------------------------------//--> 
+	<img id="0" src="images/suit/merged.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 11;">
+
+	
+	<!--//-----------------------------------------------inside inner button image---------------------------------------------//--> 
+	<img id="0" src="images/suit/872_beige.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 13;">
+
+
+	<!--//-----------------------------------------------jacket_shoulders image---------------------------------------------//--> 
+	<img id="0" src="images/suit/jacket_shoulders.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 2;">
+	
+	
+	<!--//-----------------------------------------------open arms image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_b_openarms.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 30;">
+	
+	<!--//-----------------------------------------------lining_705_a image---------------------------------------------//--> 
+	<img id="0" src="images/suit/lining_705_a.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 0;">
+	
+	
+	<!--//-----------------------------------------------656_t_openarms image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_t_openarms.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 25;">
+	
+	<!--//-----------------------------------------------656_t_openarms image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_t_openarms.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 25;">
+	
+	<!--//-----------------------------------------------front inner coat image---------------------------------------------//--> 
+	<img id="0" src="images/suit/871_872.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 12;">
+	
+</div>
+<?php } else if($_REQUEST['acn']=='merged') { ?>
+<div id="fabric_design_details_middle_picture_view1" class=""> 
+	<!-----------------------------------------------------------front part------------------------------------------------->
+	
+	<!-----------------------------------------------------------static part------------------------------------------------->
+	<!--//-----------------------------------------------inside inner image---------------------------------------------//--> 
+	<img id="0" src="images/suit/merged.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 11;">
+	
+	<!--//-----------------------------------------------Shadow image image---------------------------------------------//--> 
+	<img id="0" src="images/suit/667_678_664_transp.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 28;">
+
+	<!--//-----------------------------------------------full sleeve image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_712.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 13;">
+
+	<!--//-----------------------------------------------outside coat image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_667.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 14;">
+
+	<!--//-----------------------------------------------bottom part of suit image---------------------------------------------//--> 
+	<img id="0" src="images/suit/667_664.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 14;">
+	
+	<!--//-----------------------------------------------front upper collar image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_667_663_t.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 25;">
+
+	<!--//-----------------------------------------------front middle button of suit image---------------------------------------------//--> 
+	<img id="0" src="images/suit/667_beige.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 37;">
+
+
+	
+
+</div>
+<?php } else {?>
+
+<div id="fabric_design_details_middle_picture_view1" class=""> 
+	<!--//-----------------------------------------------inside inner image---------------------------------------------//--> 
+	<img id="0" src="images/suit/merged.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 11;">
+	
+	<!--//-----------------------------------------------blank image---------------------------------------------//--> 
+	<img id="0" src="images/suit/667_678_664_transp.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 28;">
+
+
+	<!--//-----------------------------------------------inside inner button image---------------------------------------------//--> 
+	<img id="0" src="images/suit/872_beige.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 13;">
+	
+	<!--//-----------------------------------------------full sleeve image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_712.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 13;">
+
+	<!--//-----------------------------------------------outside coat image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_667.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 14;">
+	
+	<!--//-----------------------------------------------outside buttonhole image---------------------------------------------//--> 
+	<img id="0" src="images/suit/667_663_766_transp.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 36;">
+
+
+	<!--//-----------------------------------------------suit type lapel image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_667_663_b.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 30;">
+	
+	<!--//-----------------------------------------------bottom part of suit image---------------------------------------------//--> 
+	<img id="0" src="images/suit/667_664.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 14;">
+
+
+	<!--//-----------------------------------------------front pocket image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_678.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 20;">
+	
+	<!--//-----------------------------------------------front upper collar image---------------------------------------------//--> 
+	<img id="0" src="images/suit/656_667_663_t.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 25;">
+	
+	<!--//-----------------------------------------------front middle button of suit image---------------------------------------------//--> 
+	<img id="0" src="images/suit/667_beige.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 37;">
+
+	<!--//-----------------------------------------------front inner coat image---------------------------------------------//--> 
+	<img id="0" src="images/suit/871_872.png" name="long" title="Peace Maker" style="position: absolute; display: block; z-index: 12;">
+
+	
+</div>
+
+<?php } ?>
+
+
+
+
+<!--<div id="layercontainer">
+
+
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/independet/front/merged.png" class="layer740" style="position: absolute; left: 0px; top: 0px; z-index: 11;"><img border="0" id="layer740" src="images/suit/merged.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/independet/front/667_678_664_transp.png" class="layer748" style="position: absolute; left: 0px; top: 0px; z-index: 28; display: block;"><img border="0" id="layer748" src="images/suit/667_678_664_transp.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/independet/front/872_beige.png" class="layer749" style="position: absolute; left: 0px; top: 0px; z-index: 13; display: block;"><img border="0" id="layer749" src="images/suit/872_beige.png"></div>
+	
+
+
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/../../GVWN_28/front/656_712.png" class="layer708" style="position: absolute; left: 0px; top: 0px; z-index: 13;"><img border="0" id="layer708" src="images/suit/656_712.png"></div>
+	
+
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/656_667.png" class="layer711" style="position: absolute; left: 0px; top: 0px; z-index: 14;"><img border="0" id="layer711" src="images/suit/656_667.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/independet/front/667_663_766_transp.png" class="layer719" style="position: absolute; left: 0px; top: 0px; z-index: 36; display: block;"><img border="0" id="layer719" src="images/suit/667_663_766_transp.png"></div>
+  
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/656_667_663_b.png" class="layer709" style="position: absolute; left: 0px; top: 0px; z-index: 30; display: block;"><img border="0" id="layer709" src="images/suit/656_667_663_b.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/667_664.png" class="layer710" style="position: absolute; left: 0px; top: 0px; z-index: 14; display: block;"><img border="0" id="layer710" src="images/suit/667_664.png"></div>
+	
+
+	
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/../../GVWN_28/front/656_678.png" class="layer713" style="position: absolute; left: 0px; top: 0px; z-index: 20; display: block;"><img border="0" id="layer713" src="images/suit/656_678.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/656_667_663_t.png" class="layer738" style="position: absolute; left: 0px; top: 0px; z-index: 25;"><img border="0" id="layer738" src="images/suit/656_667_663_t.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/independet/front/667_beige.png" class="layer729" style="position: absolute; left: 0px; top: 0px; z-index: 37;"><img border="0" id="layer729" src="images/suit/667_beige.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/871_872.png" class="layer736" style="position: absolute; left: 0px; top: 0px; z-index: 12;"><img border="0" id="layer736" src="images/suit/871_872.png"></div>
+	
+</div>-->
+<!--<div id="layercontainer">
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/JMAV005_16_black/front/../../JMAV005_16_black/front/lining_705_b.png" class="layer739" style="position: absolute; left: 0px; top: 0px; z-index: 34; display: block;"><img border="0" id="layer739" src="images/suit/lining_705_b.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/independet/front/merged.png" class="layer740" style="position: absolute; left: 0px; top: 0px; z-index: 11;"><img border="0" id="layer740" src="images/suit/merged.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/independet/front/872_beige.png" class="layer749" style="position: absolute; left: 0px; top: 0px; z-index: 13; display: block;"><img border="0" id="layer749" src="images/suit/872_beige.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/630_636_646.png" class="layer701" style="position: absolute; left: 0px; top: 0px; z-index: 9; display: block;"><img border="0" id="layer701" src="images/suit/630_636_646.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/../../GVWN_28/front/jacket_shoulders.png" class="layer708" style="position: absolute; left: 0px; top: 0px; z-index: 2;"><img border="0" id="layer708" src="images/suit/jacket_shoulders.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/641_657.png" class="layer702" style="position: absolute; left: 0px; top: 0px; z-index: 9; display: none;"><img border="0" id="layer702" src="images/suit/641_657.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/../../GVWN_28/front/656_b_openarms.png" class="layer709" style="position: absolute; left: 0px; top: 0px; z-index: 30; display: block;"><img border="0" id="layer709" src="images/suit/656_b_openarms.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/630_640_807_654.png" class="layer707" style="position: absolute; left: 0px; top: 0px; z-index: 8;"><img border="0" id="layer707" src="images/suit/630_640_807_654.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/648_650.png" class="layer704" style="position: absolute; left: 0px; top: 0px; z-index: 10;"><img border="0" id="layer704" src="images/suit/648_650.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/JMAV005_16_black/front/../../JMAV005_16_black/front/lining_705_a.png" class="layer717" style="position: absolute; left: 0px; top: 0px; z-index: 0; display: block;"><img border="0" id="layer717" src="images/suit/lining_705_a.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/656_t_openarms.png" class="layer738" style="position: absolute; left: 0px; top: 0px; z-index: 25;"><img border="0" id="layer738" src="images/suit/656_t_openarms.png"></div>
+	
+	<div data-source="//d2egr0nf4lwc62.cloudfront.net/suit/large/GVWN_28/front/871_872.png" class="layer736" style="position: absolute; left: 0px; top: 0px; z-index: 12;"><img border="0" id="layer736" src="images/suit/871_872.png"></div>
+	
+</div>-->

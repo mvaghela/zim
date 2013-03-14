@@ -1,0 +1,35 @@
+#
+# Uncomment the statement below if you want to make use of
+# HTTP authentication and it does not already work.
+# This could be required if you are for example using PHP via Apache CGI.
+#
+#<IfModule mod_rewrite.c>
+#RewriteEngine on
+#RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
+#</IfModule>
+
+
+# File modified on Fri Mar  8 07:33:18 2013 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value upload_max_filesize 10M
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value post_max_size 20M
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value memory_limit 128M
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value max_file_uploads 50
+#http://www.zimba-customtailor.com/development/
+
+RewriteEngine On
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymLinks
+Options +SymLinksIfOwnerMatch
+RewriteBase /
+
+#this is the magic line below here
+RedirectMatch 301 ^/development/(.*)$ http://development.zimba-customtailor.com/$1
+
+
+RewriteEngine On
+RewriteRule ^page/([a-zA-Z0-9-/]+).html$ pages.php?uniqname=$1
+RewriteRule ^page/([a-zA-Z0-9-/]+).html/$ pages.php?uniqname=$1

@@ -1,0 +1,17 @@
+<div class="absolute noOverFlow" id="mainView">
+	<img id="ts_random_id_3193859_2921504" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render_static/bg/product_view.png">
+	<img id="ts_random_id_120344_2150746" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/shadow/4_140.png">
+	<img id="ts_random_id_1811165_3394138" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/legs/140_0/2321.png">
+	<img id="ts_random_id_3602095_734003" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/backpockets/4_0_123_0/2321.png">
+	<img id="ts_random_id_4025022_536383" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/pocketfill/4_0/2321.png">
+	<img id="ts_random_id_3339489_2296022" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/fronts/4_3_0_1_0/2321.png">
+	<img id="ts_random_id_1561239_848415" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/backpocket_lining/4_3_0/42.png">
+	<img id="ts_random_id_3190179_3885523" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/outer_waistband/4_3_128_0/2321.png">
+	<img id="ts_random_id_499460_853709" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/button_hole_threads/4_0_129/f2321.png">
+	<img id="ts_random_id_1405326_4015657" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/button/4_0_129/18.png">
+	<img id="ts_random_id_3673736_2363061" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/button_thread/4_0_129/b18.png">
+	<img id="ts_random_id_1385756_2119935" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/seams/main/4_140_3_128/f2321.png">
+	<img id="ts_random_id_4043092_1219643" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/seams/fly/4_100/f2321.png">
+	<img id="ts_random_id_3927169_580992" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/seams/pocket/4_3_3/f2321.png">
+	<img id="ts_random_id_1498512_4022499" style="position: absolute; top: 0px; left: 0px;" src="http://web01.tailorstore.com/media/gfx/render/chinos_new.resize/designer/studio_main_cam_0/inner_waistband/4_0/50.png">
+</div>
