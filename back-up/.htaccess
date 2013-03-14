@@ -1,0 +1,15 @@
+#
+# Uncomment the statement below if you want to make use of
+# HTTP authentication and it does not already work.
+# This could be required if you are for example using PHP via Apache CGI.
+#
+#<IfModule mod_rewrite.c>
+#RewriteEngine on
+#RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
+#</IfModule>
+
+
+php_value upload_max_filesize 10M
+php_value post_max_size 20M
+php_value memory_limit 128M
+php_value max_file_uploads 50
