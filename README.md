@@ -1,4 +1,6 @@
-ZIM Project : Code Hosting done at GitHub.com
+ZIM Project : Code Hosting
 ===
 
-Project Repo for ZIM Project
+Project Repo for ZIM Project.
+
+Code hosted at Github.com.
