@@ -1,0 +1,65 @@
+/* CSS Document */
+.displaytable {
+	color:#666;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.displaytable select {
+	padding:5px;
+	border:1px solid #CDCDCD;
+	 border-radius: 5px 5px 5px 5px;
+    color: #666666;
+    font-size: 14px;
+}
+
+
+.displaytable {
+padding:10px;
+}
+.displaytable td {
+	border:1px solid #CDCDCD;
+}
+
+
+.displaytable a {
+	color: #333;
+	border-bottom: 1px solid transparent;
+	-webkit-transition: all .2s ease-in;
+	-moz-transition: all .2s ease-in;
+	-o-transition: all .2s ease-in;
+	transition: all .2s ease-in;
+	text-decoration:none;
+}
+
+
+.displaytable a:hover {
+	color: #34A555;
+	border-bottom: 1px solid #34A555;
+}
+
+
+input {
+	    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #B8B8B8;
+    color: #000000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
