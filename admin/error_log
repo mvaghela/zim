@@ -1,0 +1,12 @@
+[08-Mar-2013 23:27:16] PHP Warning:  Wrong parameter count for session_destroy() in /home5/zimbacus/public_html/development/admin/setting.php on line 16
+[08-Mar-2013 23:27:16] PHP Warning:  Wrong parameter count for session_destroy() in /home5/zimbacus/public_html/development/admin/setting.php on line 17
+[08-Mar-2013 23:30:19] PHP Warning:  Wrong parameter count for session_destroy() in /home5/zimbacus/public_html/development/admin/setting.php on line 16
+[08-Mar-2013 23:30:19] PHP Warning:  Wrong parameter count for session_destroy() in /home5/zimbacus/public_html/development/admin/setting.php on line 17
+[08-Mar-2013 23:35:03] PHP Warning:  Wrong parameter count for session_destroy() in /home5/zimbacus/public_html/development/admin/setting.php on line 16
+[08-Mar-2013 23:35:03] PHP Warning:  Wrong parameter count for session_destroy() in /home5/zimbacus/public_html/development/admin/setting.php on line 17
+[09-Mar-2013 00:13:02] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Mar-2013 00:13:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home5/zimbacus/public_html/development/admin/function/suitcustomization.php on line 444
+[09-Mar-2013 00:15:19] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Mar-2013 00:15:47] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Mar-2013 00:15:51] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home5/zimbacus/public_html/development/admin/function/suitcustomization.php on line 474
+[09-Mar-2013 00:16:21] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
