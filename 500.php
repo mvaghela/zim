@@ -3,7 +3,7 @@
 <body bgcolor=white>
 <h1>500 Server Error</h1>
 
-A misconfiguration on the server caused a hiccup.
+A misconfiguration on the server caused a hiccup. Please try again after sometime.
 Check the server logs, fix the problem, then try again.
 <hr>
 
